@@ -1,0 +1,11 @@
+C:\Users\Alver\source\repos\OOP_Assignment1\bin\Debug\OOP_Assignment1.exe.config
+C:\Users\Alver\source\repos\OOP_Assignment1\bin\Debug\OOP_Assignment1.exe
+C:\Users\Alver\source\repos\OOP_Assignment1\bin\Debug\OOP_Assignment1.pdb
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.csproj.AssemblyReference.cache
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.Form1.resources
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.Properties.Resources.resources
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.csproj.GenerateResource.cache
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.exe
+C:\Users\Alver\source\repos\OOP_Assignment1\obj\Debug\OOP_Assignment1.pdb
